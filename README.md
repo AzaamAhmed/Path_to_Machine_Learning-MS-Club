@@ -147,6 +147,6 @@ Open Source Contributor - TensorFlow Group
 ## 📩 Questions?
 
 Feel free to reach out or create an issue on the repo!  
-Let’s grow as ML Engineers together 🚀
-If you found this project helpful!!!!
-Give me a star to this repo ⭐
+Let’s grow as ML Engineers together 🚀  
+If you found this project helpful!!!!  
+Give me a star to this repo ⭐ 
